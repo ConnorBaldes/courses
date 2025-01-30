@@ -60,5 +60,5 @@
 	branch = main
 [submodule "cs160"]
 	path = cs160
-	url = ./cs160
+	url = https://github.com/ConnorBaldes/cs160.git
 	branch = main
