@@ -26,8 +26,9 @@ This repository contains programming work from various courses I took during my 
 
 #### **CS160: Introduction to Computer Science**
 - **Content**: Covers foundational computational thinking, problem-solving, and an introduction to programming concepts
-![Languages](https://img.shields.io/github/languages/top/ConnorBaldes/cs340)
-
+- **Language Stats**
+    - **Jinja**: 58.12% <div style="width: 58.12%; background-color:rgb(197, 0, 0); height: 10px;"></div> 
+    - **Python**: 41.88% <div style="width: 41.88%; background-color: #3572A5; height: 10px;"></div>
 
 
 #### **CS161: Introduction to Computer Science I**
