@@ -1,62 +1,62 @@
 [submodule "cs161"]
 	path = cs161
-	url = ./cs161
+	url = https://github.com/ConnorBaldes/cs161.git
 	branch = main
 [submodule "cs162"]
 	path = cs162
-	url = ./cs162
+	url = https://github.com/ConnorBaldes/cs162.git
 	branch = main
 [submodule "cs261"]
 	path = cs261
-	url = ./cs261
+	url = https://github.com/ConnorBaldes/cs261.git
 	branch = main
 [submodule "cs271"]
 	path = cs271
-	url = ./cs271
+	url = https://github.com/ConnorBaldes/cs271.git
 	branch = main
 [submodule "cs290"]
 	path = cs290
-	url = ./cs290
+	url = https://github.com/ConnorBaldes/cs290.git
 	branch = main
 [submodule "cs325"]
 	path = cs325
-	url = ./cs325
+	url = https://github.com/ConnorBaldes/cs325.git
 	branch = main
 [submodule "cs331"]
 	path = cs331
-	url = ./cs331
+	url = https://github.com/ConnorBaldes/cs331.git
 	branch = main
 [submodule "cs340"]
 	path = cs340
-	url = ./cs340
+	url = https://github.com/ConnorBaldes/cs340.git
 	branch = main
 [submodule "cs344"]
 	path = cs344
-	url = ./cs344
+	url = https://github.com/ConnorBaldes/cs344.git
 	branch = main
 [submodule "cs362"]
 	path = cs362
-	url = ./cs362
+	url = https://github.com/ConnorBaldes/cs362.git
 	branch = main
 [submodule "cs381"]
 	path = cs381
-	url = ./cs381
+	url = https://github.com/ConnorBaldes/cs381.git
 	branch = main
 [submodule "cs434"]
 	path = cs434
-	url = ./cs434
+	url = https://github.com/ConnorBaldes/cs434.git
 	branch = main
 [submodule "cs475"]
 	path = cs475
-	url = ./cs475
+	url = https://github.com/ConnorBaldes/cs475.git
 	branch = main
 [submodule "cs492"]
 	path = cs492
-	url = ./cs492
+	url = https://github.com/ConnorBaldes/cs492.git
 	branch = main
 [submodule "cs493"]
 	path = cs493
-	url = ./cs493
+	url = https://github.com/ConnorBaldes/cs493.git
 	branch = main
 [submodule "cs160"]
 	path = cs160
