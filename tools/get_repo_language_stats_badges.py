@@ -25,13 +25,30 @@ def get_language_stats(username, repo, file_extension=None):
         # Sorting languages by usage
         sorted_languages = sorted(languages.items(), key=lambda x: x[1], reverse=True)
 
-        # Generate Markdown for the language stats with bars
+        # Generate Markdown for the language stats with badges
         markdown = "### Language Stats\n\n"
         for language, bytes in sorted_languages:
             percentage = (bytes / total) * 100
-            bar_length = int(percentage)  # Bar length based on percentage
-            bar = "█" * bar_length
-            markdown += f"- **{language}**: {percentage:.2f}% {bar} ({bytes} bytes)\n"
+            # Ensure the percentage is rounded to two decimal places
+            percentage = round(percentage, 2)
+            
+            # Generate badge URL based on percentage
+            badge_url = f"https://img.shields.io/badge/{language}-{percentage}%25-"
+            
+            # Assign color based on percentage
+            if percentage >= 90:
+                badge_url += "brightgreen"
+            elif percentage >= 60:
+                badge_url += "yellowgreen"
+            elif percentage >= 30:
+                badge_url += "yellow"
+            elif percentage >= 10:
+                badge_url += "orange"
+            else:
+                badge_url += "lightgray"
+
+            # Add the badge to the markdown
+            markdown += f"![{language} Language Stats]({badge_url})\n"
         
         # Output the markdown
         print(markdown)
