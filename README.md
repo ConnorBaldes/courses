@@ -3,22 +3,23 @@
 This repository contains programming work from various courses I took during my studies. Each course has its own directory, and below is a summary of the work contained in each one.
 
 ## Table of Contents
-1. [CS160: Introduction to Computer Science](https://github.com/ConnorBaldes/cs160.git)
-2. [CS161: Introduction to Computer Science I](https://github.com/ConnorBaldes/cs161.git)
-3. [CS162: Introduction to Computer Science II]( https://github.com/ConnorBaldes/cs162.git)
-4. [CS261: Data Structures](https://github.com/ConnorBaldes/cs261.git)
-5. [CS271: Computer Architecture and Assembly Language](https://github.com/ConnorBaldes/cs271.git)
-6. [CS290: Web Development](https://github.com/ConnorBaldes/cs290.git)
-7. [CS325: Analysis of Algorithms](https://github.com/ConnorBaldes/cs325.git)
-8. [CS331: Introduction to Artificial Intelligence](https://github.com/ConnorBaldes/cs331.git)
-9. [CS340: Introduction to Databases](https://github.com/ConnorBaldes/cs340.git)
-10. [CS344: Operating Systems I](https://github.com/ConnorBaldes/cs344.git)
-11. [CS361: Software Engineering II](https://github.com/ConnorBaldes/cs362.git)
-12. [CS381: Programming Language Fundamentals](https://github.com/ConnorBaldes/cs381.git)
-13. [CS434: Machine Learning & Data Mining](https://github.com/ConnorBaldes/cs434.git)
-14. [CS475: Introduction to Parallel Programming](https://github.com/ConnorBaldes/cs475.git)
-15. [CS492: Mobile Software Development]( https://github.com/ConnorBaldes/cs492.git)
-16. [CS493: Cloud Application Development](https://github.com/ConnorBaldes/cs493.git)
+1. [CS160: Introduction to Computer Science](#cs160-introduction-to-computer-science)
+2. [CS161: Introduction to Computer Science I](#cs161-introduction-to-computer-science-i)
+3. [CS162: Introduction to Computer Science II](#cs162-introduction-to-computer-science-ii)
+4. [CS261: Data Structures](#cs261-data-structures)
+5. [CS271: Computer Architecture and Assembly Language](#cs271-computer-architecture-and-assembly-language)
+6. [CS290: Web Development](#cs290-web-development)
+7. [CS325: Analysis of Algorithms](#cs325-analysis-of-algorithms)
+8. [CS331: Introduction to Artificial Intelligence](#cs331-introduction-to-artificial-intelligence)
+9. [CS340: Introduction to Databases](#cs340-introduction-to-databases)
+10. [CS344: Operating Systems I](#cs344-operating-systems-i)
+11. [CS362: Software Engineering II](#cs362-software-engineering-ii)
+12. [CS381: Programming Language Fundamentals](#cs381-programming-language-fundamentals)
+13. [CS434: Machine Learning & Data Mining](#cs434-machine-learning--data-mining)
+14. [CS475: Introduction to Parallel Programming](#cs475-introduction-to-parallel-programming)
+15. [CS492: Mobile Software Development](#cs492-mobile-software-development)
+16. [CS493: Cloud Application Development](#cs493-cloud-application-development)
+
 
 ---
 
