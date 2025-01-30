@@ -58,3 +58,7 @@
 	path = cs493
 	url = ./cs493
 	branch = main
+[submodule "cs160"]
+	path = cs160
+	url = ./cs160
+	branch = main
