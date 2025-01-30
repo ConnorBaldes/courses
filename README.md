@@ -26,7 +26,7 @@ This repository contains programming work from various courses I took during my 
 
 #### **CS160: Introduction to Computer Science**
 - **Content**: Covers foundational computational thinking, problem-solving, and an introduction to programming concepts
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ConnorBaldes&repo=cs160&langs_count=5&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ConnorBaldes&repo=cs162&langs_count=5&theme=radical)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ConnorBaldes&show_icons=true&theme=radical)
 
