@@ -25,7 +25,11 @@ This repository contains programming work from various courses I took during my 
 ### Course Summaries:
 
 #### **CS160: Introduction to Computer Science**
-- **Content**: Covers foundational computational thinking, problem-solving, and an introduction to programming concepts.
+- **Content**: Covers foundational computational thinking, problem-solving, and an introduction to programming concepts
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ConnorBaldes&repo=cs160&langs_count=5&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ConnorBaldes&show_icons=true&theme=radical)
+
 
 #### **CS161: Introduction to Computer Science I**
 - **Content**: Teaches basic programming using control structures, functions, loops, I/O, and debugging in a high-level language.
