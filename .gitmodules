@@ -1,7 +1,3 @@
-[submodule "cs160"]
-	path = cs160
-	url = ./cs160
-	branch = main
 [submodule "cs161"]
 	path = cs161
 	url = ./cs161
