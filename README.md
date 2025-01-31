@@ -28,6 +28,8 @@ This repository contains programming work from various courses I took during my 
 ### **CS160: Introduction to Computer Science** 
 ![Python Language Stats](https://img.shields.io/badge/Python-100.0%25-brightgreen)
 
+[CS160 Repository](https://github.com/ConnorBaldes/cs160.git)
+
 This course introduces foundational programming concepts, focusing on computational problem-solving. It covers basic programming techniques and essential data structures.
 
 #### **Topics**
@@ -40,6 +42,8 @@ This course introduces foundational programming concepts, focusing on computatio
 
 ### **CS161: Introduction to Computer Science I**
 ![C++ Language Stats](https://img.shields.io/badge/C++-100.0%25-brightgreen)
+
+[CS161 Repository](https://github.com/ConnorBaldes/cs161.git)
 
 This course builds upon CS160 and explores more advanced topics in computer science, emphasizing data structures and algorithms for solving complex problems.
 
@@ -58,6 +62,8 @@ This course builds upon CS160 and explores more advanced topics in computer scie
 ![Shell Language Stats](https://img.shields.io/badge/Shell-0.81%25-lightgray)
 ![Makefile Language Stats](https://img.shields.io/badge/Makefile-0.59%25-lightgray)
 
+[CS162 Repository](https://github.com/ConnorBaldes/cs162.git)
+
 Expanding on the concepts from CS160 and CS161, this course covers advanced data structures, algorithms, and software design principles.
 
 #### **Topics**
@@ -73,6 +79,8 @@ Expanding on the concepts from CS160 and CS161, this course covers advanced data
 ![C Language Stats](https://img.shields.io/badge/C-98.26%25-brightgreen)
 ![Makefile Language Stats](https://img.shields.io/badge/Makefile-1.74%25-lightgray)
 
+[CS261 Repository](https://github.com/ConnorBaldes/cs261.git)
+
 This course focuses on the design, implementation, and analysis of essential data structures, emphasizing algorithmic efficiency and performance.
 
 #### **Topics**
@@ -86,6 +94,8 @@ This course focuses on the design, implementation, and analysis of essential dat
 ![Assembly Language Stats](https://img.shields.io/badge/Assembly-83.2%25-yellowgreen)
 ![C++ Language Stats](https://img.shields.io/badge/C++-14.16%25-orange)
 ![C Language Stats](https://img.shields.io/badge/C-2.64%25-lightgray)
+
+[CS271 Repository](https://github.com/ConnorBaldes/cs271.git)
 
 This course covers computer organization and low-level programming, focusing on the interaction between hardware and software.
 
@@ -105,6 +115,8 @@ This course covers computer organization and low-level programming, focusing on 
 ![Handlebars Language Stats](https://img.shields.io/badge/Handlebars-9.85%25-lightgray)
 ![PHP Language Stats](https://img.shields.io/badge/PHP-1.33%25-lightgray)
 
+[CS290 Repository](https://github.com/ConnorBaldes/cs290.git)
+
 This course provides an introduction to building dynamic, interactive websites, covering the fundamental technologies for web development.
 
 #### **Topics**
@@ -120,6 +132,8 @@ This course provides an introduction to building dynamic, interactive websites, 
 ### **CS325: Analysis of Algorithms**
 ![C++ Language Stats](https://img.shields.io/badge/C++-100.0%25-brightgreen)
 
+[CS325 Repository](https://github.com/ConnorBaldes/cs325.git)
+
 This course explores the design and analysis of algorithms, focusing on algorithmic efficiency and optimization.
 
 #### **Topics**
@@ -134,6 +148,8 @@ This course explores the design and analysis of algorithms, focusing on algorith
 ### **CS331: Introduction to Artificial Intelligence**
 ![Python Language Stats](https://img.shields.io/badge/Python-82.4%25-yellowgreen)
 ![Shell Language Stats](https://img.shields.io/badge/Shell-17.6%25-orange)
+
+[CS331 Repository](https://github.com/ConnorBaldes/cs331.git)
 
 This course provides an overview of artificial intelligence, covering techniques for solving problems with intelligent systems.
 
@@ -151,6 +167,8 @@ This course provides an overview of artificial intelligence, covering techniques
 ![Jinja Language Stats](https://img.shields.io/badge/Jinja-58.12%25-yellow)
 ![Python Language Stats](https://img.shields.io/badge/Python-41.88%25-yellow)
 
+[CS340 Repository](https://github.com/ConnorBaldes/cs340.git)
+
 This course introduces the fundamental concepts of databases, including design, implementation, and querying.
 
 #### **Topics**
@@ -167,6 +185,8 @@ This course introduces the fundamental concepts of databases, including design, 
 ![Rust Language Stats](https://img.shields.io/badge/Rust-7.15%25-lightgray)
 ![Shell Language Stats](https://img.shields.io/badge/Shell-5.27%25-lightgray)
 
+[CS344 Repository](https://github.com/ConnorBaldes/cs344.git)
+
 This course covers core operating system principles, including process and memory management, and system calls.
 
 #### **Topics**
@@ -179,6 +199,8 @@ This course covers core operating system principles, including process and memor
 
 ### **CS362: Software Engineering II**
 ![Python Language Stats](https://img.shields.io/badge/Python-100.0%25-brightgreen)
+
+[CS362 Repository](https://github.com/ConnorBaldes/cs362.git)
 
 This course focuses on advanced software engineering techniques, including software design, testing, and project management.
 
@@ -193,6 +215,8 @@ This course focuses on advanced software engineering techniques, including softw
 ![Haskell Language Stats](https://img.shields.io/badge/Haskell-90.23%25-brightgreen)
 ![Prolog Language Stats](https://img.shields.io/badge/Prolog-9.77%25-lightgray)
 
+[CS381 Repository](https://github.com/ConnorBaldes/cs381.git)
+
 This course explores the theory and design of programming languages, examining syntax, semantics, and paradigms.
 
 #### **Topics**
@@ -205,6 +229,8 @@ This course explores the theory and design of programming languages, examining s
 
 ### **CS434: Machine Learning & Data Mining**
 ![Python Language Stats](https://img.shields.io/badge/Python-100.0%25-brightgreen)
+
+[CS434 Repository](https://github.com/ConnorBaldes/cs434.git)
 
 This course covers the fundamental concepts and techniques in machine learning and data mining, focusing on extracting patterns from large datasets.
 
@@ -223,6 +249,8 @@ This course covers the fundamental concepts and techniques in machine learning a
 ![Shell Language Stats](https://img.shields.io/badge/Shell-0.97%25-lightgray)
 ![Makefile Language Stats](https://img.shields.io/badge/Makefile-0.14%25-lightgray)
 
+[CS475 Repository](https://github.com/ConnorBaldes/cs475.git)
+
 This course introduces parallel programming techniques, emphasizing the development of applications for parallel computing environments.
 
 #### **Topics**
@@ -236,6 +264,8 @@ This course introduces parallel programming techniques, emphasizing the developm
 
 ### **CS492: Mobile Software Development**
 ![Kotlin Language Stats](https://img.shields.io/badge/Kotlin-100.0%25-brightgreen)
+
+[CS492 Repository](https://github.com/ConnorBaldes/cs492.git)
 
 This course covers the design and development of mobile applications for platforms such as Android and iOS.
 
@@ -253,6 +283,8 @@ This course covers the design and development of mobile applications for platfor
 ![CSS Language Stats](https://img.shields.io/badge/CSS-2.21%25-lightgray)
 ![Dockerfile Language Stats](https://img.shields.io/badge/Dockerfile-0.34%25-lightgray)
 ![JavaScript Language Stats](https://img.shields.io/badge/JavaScript-0.14%25-lightgray)
+
+[CS493 Repository](https://github.com/ConnorBaldes/cs493.git)
 
 This course focuses on the development and deployment of cloud-based applications, covering key cloud computing principles.
 
